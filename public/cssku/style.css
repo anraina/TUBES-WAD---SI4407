@@ -1,0 +1,47 @@
+
+
+.blacktext{
+    color: #111 ;
+
+}
+.whitetext{
+    color: #fff;
+}
+.bgdarkblack{
+    background-color: #1B1D26 ;   
+}
+
+.bgblue{
+    background-color: #344FB7 ;   
+}
+
+.bgdarkblue{
+    background-color: #202831;   
+}
+
+.bgwhite{
+    background-color: #fff;   
+}
+
+.imgcard{
+    max-height: 8rem;
+    min-height: 8rem;
+}
+.imgcard2{
+    max-height: 25rem;
+    min-height: 320px;
+    min-width: 282px;
+}
+.imgcard3{
+    min-width: auto;
+    max-height: auto;
+    min-height: auto;
+}
+.gambarproduct{
+   
+        width: 50px;
+}
+.gambarwisatasmall{
+   
+    width: 50px;
+}

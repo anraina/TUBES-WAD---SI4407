@@ -1,0 +1,32 @@
+[
+    {
+        "level": "WARNING",
+        "message": "https:\/\/maps.googleapis.com\/maps\/api\/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_GB&callback=onApiLoad 284:117 \"google.maps.event.addDomListener() is deprecated, use the standard addEventListener() method instead: https:\/\/developer.mozilla.org\/docs\/Web\/API\/EventTarget\/addEventListener\\nThe feature will continue to work and there is no plan to decommission it.\"",
+        "source": "console-api",
+        "timestamp": 1657458589976
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/maps.googleapis.com\/maps\/api\/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_GB&callback=onApiLoad 284:117 \"google.maps.event.addDomListener() is deprecated, use the standard addEventListener() method instead: https:\/\/developer.mozilla.org\/docs\/Web\/API\/EventTarget\/addEventListener\\nThe feature will continue to work and there is no plan to decommission it.\"",
+        "source": "console-api",
+        "timestamp": 1657458589977
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/maps.googleapis.com\/maps\/api\/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_GB&callback=onApiLoad 284:117 \"google.maps.event.addDomListener() is deprecated, use the standard addEventListener() method instead: https:\/\/developer.mozilla.org\/docs\/Web\/API\/EventTarget\/addEventListener\\nThe feature will continue to work and there is no plan to decommission it.\"",
+        "source": "console-api",
+        "timestamp": 1657458589977
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/maps.googleapis.com\/maps\/api\/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_GB&callback=onApiLoad 284:117 \"google.maps.event.addDomListener() is deprecated, use the standard addEventListener() method instead: https:\/\/developer.mozilla.org\/docs\/Web\/API\/EventTarget\/addEventListener\\nThe feature will continue to work and there is no plan to decommission it.\"",
+        "source": "console-api",
+        "timestamp": 1657458589978
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/maps.googleapis.com\/maps\/api\/js?client=google-maps-embed&paint_origin=&libraries=geometry,search&v=3.exp&language=en_GB&callback=onApiLoad 284:117 \"google.maps.event.addDomListener() is deprecated, use the standard addEventListener() method instead: https:\/\/developer.mozilla.org\/docs\/Web\/API\/EventTarget\/addEventListener\\nThe feature will continue to work and there is no plan to decommission it.\"",
+        "source": "console-api",
+        "timestamp": 1657458589978
+    }
+]
